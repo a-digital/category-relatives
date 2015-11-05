@@ -12,6 +12,7 @@ Number of children beneath the current category:
 {exp:category_relatives:count_children category="{triggers:segment_4}" category_group="2"}
 
 Output: eg. 6
+
 --
 Whether the current category has a parent:
 {exp:category_relatives:has_parent category="{triggers:segment_4}" category_group="2"}
